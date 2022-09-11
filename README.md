@@ -6,7 +6,7 @@ ICME belongs to CCF-B.
 
 [Unofficial] [pytorch] the implementation of "A Rolling Bearing Fault Diagnosis Method Using Multi-Sensor Data and Periodic Sampling."
 
-[official code](https://github.com/IWantBe/MDPS)   ---tensorflow version
+[official code](https://github.com/IWantBe/MDPS)   ---tensorflow version （Thanks to [Dr. Zheng](https://github.com/IWantBe) for the open source code）
 
 - ReadData_2.py : Channel fusion and periodic sampling.
 - model_2_view.py : the code of training and testing, and it provides functions to evaluate the performance changes under different stripe and sample length.
