@@ -9,11 +9,11 @@ args = None
 
 def parse_args():
     parser = argparse.ArgumentParser(description='Train')
-    parser.add_argument('--data_dir', type=str, default= "data\\5HP", help='the directory of the data')
-    parser.add_argument("--pretrained", type=bool, default=True, help='whether to load the pretrained model')
+    parser.add_argument('--data_dir', type=str, default= "data\\5HP", help='')
+    parser.add_argument("--pretrained", type=bool, default=True, help='')
     parser.add_argument('--batch_size', type=int, default=256, help='batchsize of the training process')
-    parser.add_argument('--step_len', type=list, default=range(210, 430, 10), help='the weight decay')
-    parser.add_argument('--sample_len', type=int, default=420, help='the learning rate schedule')
+    parser.add_argument('--step_len', type=list, default=range(210, 430, 10), help='')
+    parser.add_argument('--sample_len', type=int, default=420, help='')
     parser.add_argument('--rate', type=list, default=[0.7, 0.15, 0.15], help='')
     parser.add_argument('--acces', type=list, default=[], help='initialization list')
     parser.add_argument('--epochs', type=int, default=80, help='max number of epoch')
