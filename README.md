@@ -2,6 +2,8 @@
 
 ICME belongs to CCF-B.
 
+![image](https://user-images.githubusercontent.com/19371493/189510285-5d88b69f-bb8d-45b3-9870-02c7fbcebb9d.png)
+
 ![image](https://user-images.githubusercontent.com/19371493/189364274-4fc4b756-13d5-4b0f-8487-4d188bf415a0.png)
 
 [Unofficial] [pytorch] the implementation of "A Rolling Bearing Fault Diagnosis Method Using Multi-Sensor Data and Periodic Sampling."
