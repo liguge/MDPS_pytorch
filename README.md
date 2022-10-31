@@ -18,13 +18,23 @@
 
 ## Cited
 ```html
-@INPROCEEDINGS{9859658,
-  author={Zheng, Jianbo and Yang, Chao and Zheng, Fangrong and Jiang, Bin},
-  booktitle={2022 IEEE International Conference on Multimedia and Expo (ICME)}, 
-  title={A Rolling Bearing Fault Diagnosis Method Using Multi-Sensor Data and Periodic Sampling}, 
-  year={2022},
-  volume={},
-  number={},
-  pages={1-6},
-  doi={10.1109/ICME52920.2022.9859658}}
+@inproceedings{DBLP:conf/icmcs/Zheng0Z022,
+  author    = {Jianbo Zheng and
+               Chao Yang and
+               Fangrong Zheng and
+               Bin Jiang},
+  title     = {A Rolling Bearing Fault Diagnosis Method Using Multi-Sensor Data and
+               Periodic Sampling},
+  booktitle = {{IEEE} International Conference on Multimedia and Expo, {ICME} 2022,
+               Taipei, Taiwan, July 18-22, 2022},
+  pages     = {1--6},
+  publisher = {{IEEE}},
+  year      = {2022},
+  url       = {https://doi.org/10.1109/ICME52920.2022.9859658},
+  doi       = {10.1109/ICME52920.2022.9859658},
+  timestamp = {Wed, 31 Aug 2022 11:49:15 +0200},
+  biburl    = {https://dblp.org/rec/conf/icmcs/Zheng0Z022.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
 ```
+
